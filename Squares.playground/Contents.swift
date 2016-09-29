@@ -30,7 +30,6 @@ square5.lengthOfSide = 9.7
 print("Area is \(square5.area)")
 
 
-
 class Square2 {
     var topLeftCorner: (Double, Double)
     var lengthOfSide: Double
